@@ -1,0 +1,1 @@
+# E2-rabbitmq-practice
